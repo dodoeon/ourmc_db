@@ -1,7 +1,7 @@
 # ourmc_db
 [우리들의 마인크래프트 공간](https://cafe.naver.com/minecraftgame) 의 [악성이용자 DB](https://userdb.ourmc.space/)
 에서 악성이용자 데이터를 받아와\
-같은 폴더에 위치한 banned-players.json 파일에 추가하는 코드 입니다.
+같은 폴더에 위치한 `banned-players.json` 파일에 추가하는 코드 입니다.
 
 ## 의존성 
 ### `사용된 패키지`
