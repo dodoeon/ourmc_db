@@ -23,6 +23,7 @@ API에서 정상적인 데이터를 받아올시 바로 추가한 뒤 저장하�
 Pyinstaller 으로 실행파일화 해두었으나\
 일부 시스템에서 바이러스로 오진 되는 경우가 있습니다.\
 민감하신 분들은 소스코드를 직접 다운받으셔서 실행하시길 바라겠습니다.
+[exe 파일 다운로드](https://drive.google.com/file/d/18RwskiYGjO1Ub2pUR8E12JPlDzdVQTiL/view?usp=sharing)
 
 ## 책임
 이 코드를 사용함에 있어 모든 책임은 사용자에게 있습니다.\
